@@ -9,3 +9,9 @@ h1{
     p.solid {border-style: solid} 
     <h1>The button Element</h1>
 }
+
+.pictures
+{
+    display: flex;
+    flex-direction: column;
+}
