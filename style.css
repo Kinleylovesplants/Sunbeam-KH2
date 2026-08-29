@@ -1,7 +1,11 @@
-.div {
-    background-color:orange;
+body {
+    background-color:rgb(255, 220, 154);
     opacity:0.3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
-.h1{
+h1{
     p.solid {border-style: solid} 
+    <h1>The button Element</h1>
 }
